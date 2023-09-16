@@ -4,7 +4,7 @@
   "description": "Template for deploying a website with TailwindCSS and Webpack",
   "scripts": {
     "build": "webpack build",
-    "dev": "webpack --serve open"
+    "dev": "webpack serve --open"
   },
   "author": "elnexreal",
   "license": "ISC",
