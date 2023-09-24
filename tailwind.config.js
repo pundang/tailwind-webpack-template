@@ -4,7 +4,7 @@ const path = require("node:path")
 
 module.exports = {
   content: [
-    path.resolve(__dirname, "dist/**/.html")
+    path.resolve(__dirname, "dist/**/*.html")
   ],
   theme: {
     extend: {},
